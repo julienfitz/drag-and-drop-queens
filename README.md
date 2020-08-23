@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Drag (and Drop) Queens
+
+A teensy little implementation of the [HTML drag & drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API) in React! Read all about it in my [dev.to post](https://dev.to/julienfitz/pop-lock-drag-and-drop-4459)! 
+
+I made this lil app using [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

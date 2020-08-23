@@ -2,7 +2,8 @@ import React from 'react'
 
 const App = () => {
   const onDragStart = (dragEvent) => {
-    // I added a border at this point so I can clearly see what's being dragged
+    // I added a border at this point so I can 
+    // clearly see what's being dragged
     dragEvent.currentTarget.style.border = '1px solid pink'
     dragEvent.dataTransfer.setData('text/plain', dragEvent.target.id)
   }
